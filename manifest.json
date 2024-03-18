@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Safe Shield",
+    "description": "Safe Shield is an extensiont that will filter out any inapropiriet content on youtube",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+}
